@@ -1,1 +1,1 @@
-# Expansi-n-educaci-n-Lima
+# Expansión de educación privada en Lima Metropolitana
