@@ -2,6 +2,9 @@
 
 https://hakufer.github.io/Expansi-n-educaci-n-Lima/
 
-- `data_lima.xlsx`: Contiene los datos de las matrículas por distrito.
-- `matriculas_privadas_lima_2023_sin_barras_ajus.xlsx`: Datos de matrículas privadas por distrito en Lima.
-- `matriculas_publicas_lima_2023_sin_barras_ajus.xlsx`: Datos de matrículas públicas por distrito en Lima.
+
+### Distribución de Matrículas en Escuelas Privadas en Lima - Año 2023
+![Distribución de Matrículas Privadas](matriculas_privadas_lima_2023_sin_barras_ajustado.png)
+
+### Distribución de Matrículas en Escuelas Públicas en Lima - Año 2023
+![Distribución de Matrículas Públicas](matriculas_publicas_lima_2023_sin_barras_ajustado.png)
